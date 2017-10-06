@@ -1,6 +1,6 @@
 # Count Minors
 
-Ecrire une fonction qui compte le nombre de personnes mineures dans un tableau d’entier.
+Ecrire une méthode qui compte le nombre de personnes mineures dans un tableau d’entier.
 Le tableau contient les âges des personnes.
 
 Rappel des commande junit :
